@@ -30,7 +30,7 @@
 - ❓ Preguntame acerca de Ciencia de Datos y te ayudare con gusto  
 
 
-- 📫 Puedes contactarme en **jorge.ala.331g@gmail.com**
+- 📫 Puedes contactarme en **jorge.alan.331g@gmail.com**
 
 <br/>  
 
