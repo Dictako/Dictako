@@ -14,7 +14,7 @@
 
 
 ## Sobre mi  
-
+Soy Alan, un joven de 22 años que actualmente se acaba de recibir la carrera de Analista de Datos en Henry y que continua estudiando la carrera de de Ing en Sistemas en la Universidad Tecnológica Nacional. Tengo experiencia en Python, SQL y herramientas relacionadas al mundo de la data. He realizado distintos proytectos que han dado experiencia en metodologías agiles, flujos de trabajo, tratamiento de los datos, machine learning, entre otras. Me destaco por ser una persona curiosa, positiva y que siempre está en busqueda de nuevos conocimientos y oportunidades. Me gusta el mundo de los datos porque siempre hay un nuevo desafio lo que me motiva a mejorar día tras día.
 
 <br/>  
 
