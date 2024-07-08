@@ -1,11 +1,11 @@
-# <div align="center">Hola 👋, Soy Augusto Dor!</div>  
+# <div align="center">Hola 👋, Soy Alan González!</div>  
   
 
 <div align="center">
-<a href="https://github.com/AugustoDor" target="_blank">
+<a href="https://github.com/Dictako" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
-<a href="https://linkedin.com/in/augusto-dor" target="_blank">
+<a href="https://www.linkedin.com/in/alan-gonzalez-466b27208/" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>  
 </div>  
@@ -14,12 +14,7 @@
 
 
 ## Sobre mi  
-Soy Augusto y tengo 20 años. Actualmente estoy estudiando inglés, Ingeniería en Sistemas de Información y me he desarrollado como 
-Data Scientist, con experiencia en Python, SQL, y muchas herramientas útiles en el mundo data. He realizado diferentes proyectos, 
-tanto a nivel Universitario como de manera Personal, que me han otorgado conocimientos en metodologías ágiles, flujos de trabajo, 
-estructura de datos, evaluación de modelos, machine learning, entre muchas otras. Me considero una persona empática, entusiasta, 
-versátil, curiosa y creativa. Me gusta el desafío de ser cada día mejor en lo que hago y espero con ansias utilizar el conocimiento 
-adquirido para dar valor a mi ambiente de trabajo y proyectos.
+
 
 <br/>  
 
@@ -29,13 +24,13 @@ adquirido para dar valor a mi ambiente de trabajo y proyectos.
 - 🔭 Estoy en la busqueda de una oportunidad laboral  
   
 
-- 🌱 Actualmente estoy aprendiendo tecnologías Cloud  
+- 🌱 Actualmente estoy aprendiendo lenguaje SQL en profundidad 
   
 
 - ❓ Preguntame acerca de Ciencia de Datos y te ayudare con gusto  
 
 
-- 📫 Puedes contactarme en **augustodorjob@gmail.com**
+- 📫 Puedes contactarme en **jorge.ala.331g@gmail.com**
 
 <br/>  
 
@@ -49,11 +44,11 @@ adquirido para dar valor a mi ambiente de trabajo y proyectos.
 ## Estadísticas de Github 
 <table><tr><td valign="top" width="50%">
 
-<img src="https://github-readme-stats.vercel.app/api?username=AugustoDor&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
+<img src="https://github-readme-stats.vercel.app/api?username=Dictako&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
 
 </td><td valign="top" width="50%">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AugustoDor&hide_border=true&layout=compact" align="left" style="width: 100%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dictako&hide_border=true&layout=compact" align="left" style="width: 100%" />
 
 </td></tr></table>  
 
@@ -64,7 +59,7 @@ adquirido para dar valor a mi ambiente de trabajo y proyectos.
 <br/>  
 
 <div align="center">
-<img src="https://komarev.com/ghpvc/?username=AugustoDor&&style=flat-square" align="center" />
+<img src="https://komarev.com/ghpvc/?username=Dictako&&style=flat-square" align="center" />
 </div>  
   
 
